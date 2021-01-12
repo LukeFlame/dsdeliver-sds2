@@ -22,7 +22,7 @@
 <h2 align="center">Previews 🖥️📱</h2>
 
    <p align="center">
-      <img src="https://cdn.discordapp.com/attachments/787821695486263399/798593679916924948/ezgif-4-5c3da6cf8af1.gif" width="90%" alt="DS Delivery Demo"/>
+      <img src="https://cdn.discordapp.com/attachments/787821695486263399/798593679916924948/ezgif-4-5c3da6cf8af1.gif" width="75%" alt="DS Delivery Demo"/>
       <img src="https://cdn.discordapp.com/attachments/787821695486263399/798577129536880670/ezgif-6-e90d9d3aa776.gif" width="40%" alt="DS Delivery Demo"/>
    </p>
 
