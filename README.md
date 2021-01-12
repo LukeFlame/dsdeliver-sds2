@@ -1,5 +1,5 @@
 🇺🇲 README in english<br>
-🇧🇷 <a href="#">README em português</a>
+🇧🇷 <a href="https://github.com/LukeFlame/dsdelivery-sds2/blob/main/READMEpt.md">README em português</a>
 
 <p align="center">
       <img src="https://cdn.discordapp.com/attachments/787821695486263399/798202787166421053/deliveryman3x.png" width="35%" alt="DS Delivery"/>
@@ -22,7 +22,7 @@
 <h2 align="center">Previews 🖥️📱</h2>
 
    <p align="center">
-      <img src="https://cdn.discordapp.com/attachments/787821695486263399/798210541440073728/Peek_11-01-2021_12-19_1.gif" width="90%" alt="DS Delivery Demo"/>
+      <img src="https://cdn.discordapp.com/attachments/787821695486263399/798593679916924948/ezgif-4-5c3da6cf8af1.gif" width="90%" alt="DS Delivery Demo"/>
       <img src="https://cdn.discordapp.com/attachments/787821695486263399/798577129536880670/ezgif-6-e90d9d3aa776.gif" width="40%" alt="DS Delivery Demo"/>
    </p>
 
@@ -125,7 +125,7 @@
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   This repository is under MIT license. You can see the <a>LICENSE</a> file for more details.
+   This repository is under MIT license. You can see the <a href="https://github.com/LukeFlame/dsdelivery-sds2/blob/main/LICENSE" >LICENSE</a> file for more details.
 </p><br>
 
 ---
