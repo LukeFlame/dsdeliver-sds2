@@ -42,7 +42,6 @@
 - Choice of products with pleasant appearance;
 - Ultra fast address search map;
 - Place orders with different product possibilities;
-- Visualizar os pedidos do mais antigo ao mais recente;
 - View orders from oldest to newest;
 - Mark order as delivered, etc.;
 - Front-web using SPA;
@@ -74,7 +73,7 @@
 
 <h2 align="center">How to use 🤔</h2>
 
-   **Tip**: you can access the website [here](https://lukeflsds2.netlify.app/).
+   **Tip**: you can access the website <a href="https://lukeflsds2.netlify.app/" target="_blank">here</a>.
 
    ```
    - Clone this repository:

@@ -74,7 +74,7 @@
 
 <h2 align="center">Como usar 🤔</h2>
 
-   **Dica**: você pode acessar o site web [aqui](https://lukeflsds2.netlify.app/).
+   **Dica**: você pode acessar o site web <a href="https://lukeflsds2.netlify.app/" target="_blank">aqui</a>.
 
    ```
    - Clone este repositório:
